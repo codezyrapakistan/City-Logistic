@@ -183,6 +183,8 @@ Replace images in the `images/` directory:
 
 ### 🏠 Homepage
 ![Homepage Screenshot](Project%20Images/Pic%201.png)
+![Services Screenshot](Project%20Images/Pic%202.png)
+![Services Screenshot](Project%20Images/Pic%203.png)
 
 
 **CityLinx LLC** - Professional Logistics Solutions
