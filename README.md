@@ -179,11 +179,8 @@ Replace images in the `images/` directory:
 - CORS protection
 - Environment variable protection
 
-## Support
 
-For technical support or customization requests, contact the development team.
 
----
 
 **CityLinx LLC** - Professional Logistics Solutions
 © 2025 CityLinx LLC. All rights reserved.
